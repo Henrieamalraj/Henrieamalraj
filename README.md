@@ -6,7 +6,7 @@
 
 # Welcome to My GitHub! 👋
 
-Hi there! I'm **[Henrie A]**, 
+## Hi there! I'm **Henrie A**, 
 
 🚀 **Snowflake Developer** | Data Enthusiast  
 💻 Designing scalable data pipelines and optimized data models  
