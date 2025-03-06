@@ -1,9 +1,3 @@
-### Henrie A
-
-🚀 **Snowflake Developer** | Data Enthusiast  
-💻 Designing scalable data pipelines and optimized data models  
-🔍 Passionate about cloud technologies and transforming data into insights
-
 # Welcome to My GitHub! 👋
 
 ## Hi there! I'm **Henrie A**, 
@@ -42,9 +36,8 @@ I enjoy sharing my knowledge about Snowflake, data engineering, and cloud techno
 
 ### 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:ahenrie08@gmail.com)
+- **Email**: [ahenrie08@gmail.com](mailto:ahenrie08@gmail.com)
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ### 💬 Let's Connect!
 
