@@ -6,16 +6,22 @@
 
 # Welcome to My GitHub! 👋
 
-Hi there! I'm **[Your Name]**, a passionate **Snowflake Developer** and Data Enthusiast. I specialize in building scalable data pipelines, optimizing data workflows, and leveraging Snowflake's powerful cloud-based data platform to transform business insights.
+Hi there! I'm **[Henrie A]**, 
+
+🚀 **Snowflake Developer** | Data Enthusiast  
+💻 Designing scalable data pipelines and optimized data models  
+🔍 Passionate about cloud technologies and transforming data into insights
+
+I specialize in building scalable data pipelines, optimizing data workflows, and leveraging Snowflake's powerful cloud-based data platform to transform business insights.
 
 ### 🛠️ Technologies & Tools
 
 - **Snowflake**: Expert in developing, optimizing, and managing Snowflake data warehouse solutions.
 - **SQL**: Skilled in writing complex queries, including CTEs, window functions, and subqueries.
-- **ETL**: Experienced in building ETL processes using tools like Apache Airflow, dbt, and custom Python scripts.
+- **ETL**: Experienced in building ETL processes using tools like Apache Airflow, dbt, informatica powercenter and custom Python scripts.
 - **Data Modeling**: Proficient in designing star and snowflake schemas, managing dimensional and fact tables.
 - **Cloud Platforms**: Familiar with AWS, Azure, and Google Cloud Platform (GCP).
-- **Programming Languages**: Python, JavaScript, SQL
+- **Programming Languages**: Python, SQL
 - **Version Control**: Git, GitHub, GitLab
 
 ### 🚀 Projects
@@ -36,8 +42,8 @@ I enjoy sharing my knowledge about Snowflake, data engineering, and cloud techno
 
 ### 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Email**: [your-email@example.com](mailto:ahenrie08@gmail.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/)
 - **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ### 💬 Let's Connect!
